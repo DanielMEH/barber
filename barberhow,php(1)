@@ -1,0 +1,353 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="decoraciones/decoracionep.css">
+    <link rel="stylesheet" href="decoraciones/normalize.css">
+    <script src="https://kit.fontawesome.com/2a174a6d4c.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barber - dcoraciones de uñas</title>
+</head>
+
+<body class="id_body" id="body_id">
+
+
+<!-- submenu -->
+<div class="usuario">
+</div>
+<div class="submenu  ">
+    <div class="conetnt_submenu ">
+        <div class="principal-content">
+
+            <div class="menu_cerrar" id="cerrar_menu">
+                <span class="times"><i class="fas fa-times"></i></span>
+            </div>
+            <div class="ttile_menu">
+                <span>Menú</span>
+            </div>
+        </div>
+
+        <div class="contenido-links">
+            <div class="ttile_k">
+                <span><h1>Contenido principal</h1></span>
+            </div>
+
+           <div class="nosotros link_bet">
+            <span><a href="">Barberia <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="">Manicurey pedicure <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="http://localhost/barber-g/paginadelusuario.php">Tu cuenta<i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="">Registrar tu alojamiento <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="http://localhost/barber-g/iniciarsesio.php">Iniciar sesión <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="#footer">Ajustes <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="">Barber.com <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="">Contactanos <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="http://localhost/barber-g/comentarios/comentarios.php">Comentarios <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        <div class="nosotros link_bet">
+            <span><a href="">Salir <i class="fas fa-angle-right"></i></a></span>
+        </div>
+        </div>
+    </div>
+</div>
+    <!-- principal -->
+    <header class="header" id="window-cal">
+<div class="contenedor" id="window">
+    <div class="title">
+        <span>
+            <a href="" class="barshor-l barb-ber" id="barber" lang="1"><b style="color: #0db2b8;">Bar</b>ber</a>
+        </span>
+    </div>
+    <div class="principal">
+<span class="registrarse">
+<a href="http://localhost/barber-g/registre-2020.php" class="toolpisw"><i class="fas fa-user"></i></a>
+
+<span class="toolpis">Registrarse</span>
+</span>
+<span class="btn-menu" id="btn-menu">
+ Menú <i class="fas fa-align-right"></i>
+</span>
+    </div>
+</div>
+    </header>
+  <div class="fetch" id="dcndjc">
+<span> <a href="#window"><i class="fas fa-arrow-up"></i></a></span>
+  </div>
+    <div class="content-texto">
+ <div class="content-p">
+<div class="image1">
+<img src="galeria/baeberpri.jpg" alt="">
+</div>
+<div class="image1">
+    <img src="galeria/manicure.jpg" alt="">
+    </div>
+    </div>
+    <div class="moda-logo">
+    <div class="moda">
+        <h2>Prepárate para la moda</h2>
+        <a href="">Comienza ya!</a>
+    </div>
+    <div class="logo">
+        <img src="galeria/logo-design-trends-2020-infinity-sign-logos-example-3.gif" alt="" title="logo">
+    </div>
+</div>
+</div>
+<!-- ventas y ajendas -->
+   <main class="productos-citas" id="citas">
+       <div class="contenido-productos">
+           <div class="ventas">
+               <h2 style="font-family: sans-serif;">Ventas</h2>
+               <div class="maquina-modelo">
+                   <div class="image-modelo-maquina">
+                       <img src="galeria/maquina1.jpg" alt="maquina de barberia " title="modelos: WAHL">
+                   </div>
+                   <div class="modelo-producto">
+                       <span class="l" >Marca: WAHL</span>
+                       <span class="u">Wahl Magic Clip Cordless Inalambrica.</span>
+                   <div class="precios-cali-todo">
+                       <div class="calificaion" id="calif">
+                        <span class="calif1">Calificación:<span class="califi">8.0</span></span></span>
+
+                       </div>
+                       <div class="pecio">
+                           <span> <a href="">$429.900 COP* <span></span></a></span>
+                       </div>
+                       <div class="ver-todo" id="mas-categori-maquina">
+                           <span>Ver todo <i class="fas fa-angle-right"></i></span>
+                       </div>
+                   </div>
+                    </div>
+
+               </div>
+               <div class="maquina-modelo">
+                <div class="image-modelo-maquina">
+                    <img src="galeria/Esmalte-vogue.jpg" alt="maquina de barberia " title="modelos: WAHL">
+                </div>
+                <div class="modelo-producto">
+                    <span class="l" >Marca: Vogue</span>
+                    <span class="u">VOGUE ESMALTE DE UÑAS FANTASTIC</span>
+                <div class="precios-cali-todo">
+                    <div class="calificaion" id="calif">
+                     <span class="calif1">Calificación:<span class="califi">8.0</span></span></span>
+
+                    </div>
+                    <div class="pecio">
+                        <span> <a href="">$3,700 COP* <span></span></a></span>
+                    </div>
+                    <div class="ver-todo" id="mas-categori-maquina">
+                        <span>Ver todo <i class="fas fa-angle-right"></i></span>
+                    </div>
+                </div>
+                 </div>
+
+            </div>
+            <div class="maquina-modelo">
+                <div class="image-modelo-maquina">
+                    <img src="galeria/asesorios.jpg" alt="asesorios de manicure y pedicure" title="asesorios">
+                </div>
+                <div class="modelo-producto">
+                    <span class="l" >Marca: FGHUOGNB</span>
+                    <span class="u">et Kit de cortaúñas Manicure Pedicure</span>
+                <div class="precios-cali-todo">
+                    <div class="calificaion" id="calif">
+                     <span class="calif1">Calificación:<span class="califi">5.0</span></span></span>
+
+                    </div>
+                    <div class="pecio">
+                        <span> <a href="">$47.900 COP*<span></span></a></span>
+                    </div>
+                    <div class="ver-todo" id="mas-categori-maquina">
+                        <span>Ver todo <i class="fas fa-angle-right"></i></span>
+                    </div>
+                </div>
+                 </div>
+
+            </div>
+            <div class="maquina-modelo">
+                <div class="image-modelo-maquina">
+                    <img src="galeria/asesoriospeluqueria.webp" alt="asesorios de manicure y pedicure" title="asesorios">
+                </div>
+                <div class="modelo-producto">
+                    <span class="l" >Tijeras De Peluquería</span>
+                    <span class="u">Grafiladora, Peine Pinzas Estuche Kit</span>
+                <div class="precios-cali-todo">
+                    <div class="calificaion" id="calif">
+                     <span class="calif1">Calificación:<span class="califi">6.0</span></span></span>
+
+                    </div>
+                    <div class="pecio">
+                        <span> <a href="">$68.000 COP*<span></span></a></span>
+                    </div>
+                    <div class="ver-todo" id="mas-categori-maquina">
+                        <span>Ver todo <i class="fas fa-angle-right"></i></span>
+                    </div>
+                </div>
+                 </div>
+
+            </div>
+           </div>
+           <div class="agendar-citas">
+               <h2>Agendar cita</h2>
+               <div class="categgoria-imag ">
+                   <div class="barberia-imagencita imash" >
+                       <span><img src="galeria/cortesbarberjpg.jpg" alt="cortes de Barberia " title="barberia"></span>
+                       <div class="categorias-cortes" id="cortes">
+                           <span><p>Cortes</p></span>
+                           <span><i class="fas fa-angle-down"></i></span>
+                       </div>
+                       <div class="cortes-clases">
+                           <div class="cert_cort">
+                            <div class="tile_cortes">
+                                <span class="r_w">Peinados</span>
+                            </div>
+                            <div class="cerrar_c" id="times-circle">
+                                <span><i class="fas fa-times-circle"></i></span>
+                            </div>
+                           </div>
+                        <div class="categorias_cortes">
+                            <span class="y">Buzz</span>
+                            <span class="y">Hipster</span>
+                            <span class="y">Raya al lado</span>
+                            <span class="y">Spiky</span>
+                            <span class="y">Peinado formal</span>
+                            <span class="y">Cresta con tupé</span>
+                            <span class="y">Cresta punk</span>
+                            <span class="y"> Slick Back</span>
+                            <span class="y"> Quiff</span>
+                            <span class="y">Comb Over </span>
+                        </div>
+                    </div>
+                   </div>
+                   <div class="manicure-pedicure imash">
+                    <span><img src="galeria/pedicurea.jpg" alt="Decoraciones de uñas" title="Manicure y Pedicure"></span>
+                    <div class="categorias-cortes" id="disehno">
+                        <span>
+                            <p>Diseños </p>
+                        </span>
+                        <span> <i class="fas fa-angle-down"></i></span>
+                    </div>
+                    <div class="manicure-clases">
+                        <div class="cert_cort">
+                         <div class="tile_cortesg">
+                             <span class="r_w">Diseño</span>
+                         </div>
+                         <div class="cerrar_c" id="times-circletlo">
+                             <span><i class="fas fa-times-circle"></i></span>
+                         </div>
+                        </div>
+                     <div class="categorias_cortes">
+                         <span class="y">Acabado ballerina</span>
+                         <span class="y">Acabado stiletto</span>
+                         <span class="y">Acabado almendra</span>
+                         <span class="y">Acabado cuadrado</span>
+                         <span class="y">Decorado natural</span>
+                         <span class="y">Decorados con piedras</span>
+                         <span class="y">Efecto espejo</span>
+
+
+                     </div>
+                 </div>
+                   </div>
+               </div>
+               <div class="buscarpor-establecimiento">
+                   <form action="" method="get" class="busca-estable" id="buscar-estable">
+                       <div class="tiitle-form">
+                           <span><h3>Buscar por establecimiento</h3></span>
+                       </div>
+                       <div class="buscador-estable">
+                           <div class="lupa-buscar" id="buscart" style="cursor: pointer;">
+                               <label for="activebuttom" style="cursor: pointer;">
+                               <span id="buscart"><i class="fas fa-search"></i></span>
+                            </label>
+                            </div>
+                           <div class="input-buscar">
+                               <input type="text" name="buscador" id="buscador" placeholder="Buscar Establecimiento" data-b="buscador" autofocus autocomplete="additional-name">
+                           </div>
+                       </div>
+                       <div class="buscar-btn">
+                        <input type="submit" value="Buscar" id="activebuttom" class="button">
+
+                    </div>
+                   </form>
+               </div>
+           </div>
+       </div>
+   </main>
+
+   <footer class="end-l contenido-final k-l" >
+<div class="content-end" id="content-end">
+<div class="redessociales-foter">
+    <div class="tittle-foter">
+        <h2>Siguenos en: </h2>
+    </div>
+    <div class="redes-footer-l">
+        <div class="kasr facebok_f">
+            <span><a href="/" class="facebook" id="facebook"><i class="fab fa-facebook-f"></i></a></span>
+        </div>
+        <div class=" kasr instagram_f">
+            <span><a href="/" class="instagram" id="instagram"><i class="fab fa-instagram"></i></a></span>
+        </div>
+        <div class=" kasr youtube_f">
+            <span><a href="/" class="youtube" id="youtube"><i class="fab fa-youtube"></i></a></span>
+        </div>
+        <div class=" kasr twitter_f">
+            <span><a href="/" class="twitter" id="twitter"><i class="fab fa-twitter"></i></a></span>
+        </div>
+        <div class=" kasr whassapp_f">
+            <span><a href="/" class="whassapp" id="whassapp"><i class="fab fa-whatsapp"></i></a></span>
+        </div>
+    </div>
+</div>
+<div class="final-ayuda"  id="footer">
+    <div class="categorias-ayuda">
+
+        <ul class="categori-end">
+            <div class="tiitle-ayuda">
+            <p>Ayuda</p>
+        </div>
+            <li><a href="" class="q">Acerca de</a></li>
+            <li><a href="" class="s">Terminos y Condiciónes</a></li>
+            <li><a href="" class="o">Informacion legal</a></li>
+            <li><a href="" class="w">Oferta de trabajo</a></li>
+        </ul>
+    </div>
+    <div class="categorias-ayuda">
+
+        <ul class="categori-end">
+            <div class="tiitle-ayuda" id="footer">
+            <p>Más</p>
+        </div>
+            <li><a href="" class="q">Quienes somos</a></li>
+            <li><a href="" class="s">Como funciona la pagina </a></li>
+            <li><a href="" class="o">seguridad</a></li>
+        </ul>
+    </div>
+
+</div>
+</div>
+<div class="marca-empresa">
+    <h1>Barber.com</h1>
+</div>
+   </footer>
+ <script src="scrip-jsactivacion-menu/activacion-js-menust.js"></script>
+</body>
+</html>
